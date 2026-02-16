@@ -23,7 +23,6 @@ This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Dat
 - Full `YYYY-MM-DD` dates preserved
 - Repaired monetary values
 - Standardised categories
-- Generated key business insights using cleaned data
 
 ## Key Cleaning Steps Performed
 
