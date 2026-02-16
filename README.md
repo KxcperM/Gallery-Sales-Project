@@ -48,7 +48,7 @@ The end goal is to analyse the cleaned data to generate actionable insights and 
   Negative quantities (real returns/refunds)  
   Future dates (2025–2026 entries appear valid in context)
   
-## Insights and meaningful KPIs using the cleaned data
+## Insights and Meaningful KPIs Using the Cleaned Data
 
 ### Total Revenue
 
