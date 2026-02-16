@@ -46,8 +46,10 @@ This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Dat
 - **Kept intentionally**  
   Negative quantities (real returns/refunds)  
   Future dates (2025–2026 entries appear valid in context)
+  
 
 # KPIs & insights using the cleaned dataset:
+
 
 ## Total Revenue
 
