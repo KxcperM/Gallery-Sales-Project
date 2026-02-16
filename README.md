@@ -52,7 +52,7 @@ This project takes a dirty CSV export (`Dirty_Gallery_Sales_Data.csv`) from an a
 | File                                   | Description                                      |
 |----------------------------------------|--------------------------------------------------|
 | `Dirty_Gallery_Sales_Data.csv`         | Original messy input file                        |
-| `Cleaned_Gallery_Sales_Data.sql`       | Full SQL script to create the clean table        |
+| `Clean_Gallery_Sales_Data.sql`       | Full SQL script to create the clean table        |
 | `README.md`                            | This file                                        |
 
 ## How to Use
