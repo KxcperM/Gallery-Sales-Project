@@ -51,8 +51,10 @@ This project takes a dirty CSV export (`Dirty_Gallery_Sales_Data.csv`) from an a
 
 | File                                   | Description                                      |
 |----------------------------------------|--------------------------------------------------|
-| `Dirty_Gallery_Sales_Data.csv`         | Original messy input file                        |
-| `Clean_Gallery_Sales_Data.sql`       | Full SQL script to create the clean table        |
+| `Dirty_Gallery_Sales_Data.csv`         | Original messy generated file                    |
+| `Cleaned_Gallery_Sales_Data.csv`       | Cleaned table                                    |
+| `Clean_Gallery_Sales_Data.sql`         | Full SQL script to create the clean table        |
+| `Generate_Dirty_Gallery_Sales_Data.py` | Full Python script to gennerate the dirty data   |
 | `README.md`                            | This file                                        |
 
 ## How to Use
