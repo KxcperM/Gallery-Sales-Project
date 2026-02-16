@@ -48,9 +48,6 @@ This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Dat
   Future dates (2025–2026 entries appear valid in context)
   
 
-# KPIs & insights using the cleaned dataset:
-
-
 ## Total Revenue
 
 £891,728.05
