@@ -47,6 +47,57 @@ This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Dat
   Negative quantities (real returns/refunds)  
   Future dates (2025–2026 entries appear valid in context)
 
+  Key Business Insights
+1. Strong Revenue Performance
+
+With nearly £900k in sales, the gallery demonstrates strong commercial viability.
+The high average order value indicates customers are willing to invest in premium artwork.
+
+2. Acquisition vs Retention Opportunity
+
+Although new customers dominate (68%), only 32% return.
+This highlights opportunities for:
+
+Loyalty programmes
+
+VIP previews
+
+Repeat-buyer incentives
+
+3. Revenue Concentration Risk
+
+Top artists generate a disproportionate share of revenue.
+While beneficial, this creates dependency risk if key artists leave.
+
+Recommendation: Diversify promotion across mid-performing artists.
+
+4. Digitally-Driven Sales
+
+Over 74% of payments use credit cards, confirming:
+
+Strong digital readiness
+
+Potential for online expansion
+
+Low reliance on cash
+
+5. High Customer Satisfaction
+
+The low return rate (1.9%) indicates:
+
+Accurate product descriptions
+
+Strong buyer satisfaction
+
+Good pricing alignment
+
+6. Clearly Defined Core Customer Segment
+
+Buyers aged 25–44 drive most revenue.
+
+Marketing Implication:
+Focus exhibitions, social media campaigns, and advertising toward this demographic.
+
 ## Files in this Repository
 
 | File                                   | Description                                      |
