@@ -52,19 +52,19 @@ The end goal is to analyse the cleaned data to generate actionable insights and 
 
 ### Total Revenue
 
-£891,728.05
+- £891,728.05
 
 Represents total sales value across all transactions.
 
 ### Number of Transactions
 
-420 transactions
+- 420 transactions
 
 Reflects total completed sales after data validation.
 
 ### Average Order Value (AOV)
 
-£2,123.16
+- £2,123.16
 
 The average value of each transaction, indicating strong high-value purchases.
 
