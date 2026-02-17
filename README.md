@@ -9,6 +9,24 @@ The end goal is to analyse the cleaned data to generate actionable insights and 
 
 ---
 
+## Project Pipeline
+```
+1 Dirty CSV (Python generated)
+       ↓
+Python (Data generation which mimics real art gallery sales system)
+       ↓
+SQLite (Profiling, cleaning & transformation)
+  • Deduplication via window functions
+  • Monetary value repair & recalculation
+  • Date standardisation & validation
+  • Text normalisation & age group standardisation
+       ↓
+1 Cleaned Table
+  • Cleaned_Gallery_Sales_Data (420 unique transactions)
+       ↓
+Insights & KPIs (Revenue, AOV, retention, artist performance)
+```
+
 **Original data issues included:**
 - Duplicate sale records (marked with `_dup` suffix)
 - Inconsistent artist name spelling
