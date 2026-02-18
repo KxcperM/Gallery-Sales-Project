@@ -86,62 +86,64 @@ Insights & Business Recommendations
 ## Insights and Meaningful KPIs Using the Cleaned Dataset
 
 ### Total Revenue
-
-- £891,728.05
-
-Represents total sales value across all transactions.
+- £891,728.05  
+  Represents total sales value across all transactions.
 
 ### Number of Transactions
-
-- 420 transactions
-
-Reflects total completed sales after data validation.
+- 420 transactions  
+  Reflects total completed sales after data validation.
 
 ### Average Order Value (AOV)
-
-- £2,123.16
-
-The average value of each transaction, indicating strong high-value purchases.
+- £2,123.16  
+  The average value of each transaction, indicating strong high-value purchases.
 
 ### Customer Mix
-- New	286
-- Repeat	134
-
-68% New / 32% Repeat
-
-Indicates strong acquisition performance with an opportunity to improve customer retention.
+- New: 286  
+- Repeat: 134  
+  68% New / 32% Repeat  
+  Indicates strong acquisition performance with an opportunity to improve customer retention.
 
 ### Return Rate
-
-- 1.9% of transactions
-
-Low return rate suggests high customer satisfaction and strong product fit.
+- 1.9% of transactions  
+  Low return rate suggests high customer satisfaction and strong product fit.
 
 ### Payment Method Distribution
-- Credit Card	74.5%
-- Cash	16.9%
-- Bank Transfer	8.6%
-
-Digital payments dominate, supporting online and card-first sales strategies.
+- Credit Card: 74.5%  
+- Cash: 16.9%  
+- Bank Transfer: 8.6%  
+  Digital payments dominate, supporting online and card-first sales strategies.
 
 ### Revenue Performance Insights
-Top 5 Artists by Revenue
-1. Craig Alan £86,707.66
-2. Alexander Weaver	£75,787.71
-3. Doug Hyde	£73,308.67
-4. Rozanne Bell	£68,620.41
-5. Jeff Rowland	£64,500.11
+
+**Top 5 Artists by Revenue**  
+1. Craig Alan £86,707.66  
+2. Alexander Weaver £75,787.71  
+3. Doug Hyde £73,308.67  
+4. Rozanne Bell £68,620.41  
+5. Jeff Rowland £64,500.11  
 
 A small group of artists generates a significant share of total revenue, highlighting a Pareto effect.
 
-### Revenue by Age Group
-- 35–44	£273,938.54
-- 25–34	£193,058.80
-- 45–54	£176,827.02
-- 18–24	£99,054.06
-- 55+	£82,612.21
+![Top 5 Artists by Revenue](images/top_artists_revenue.png)
+
+**Revenue by Age Group**  
+- 35–44 £273,938.54  
+- 25–34 £193,058.80  
+- 45–54 £176,827.02  
+- 18–24 £99,054.06  
+- 55+ £82,612.21  
 
 Customers aged 25–44 generate the majority of revenue, making them the core target demographic.
+
+![Revenue by Age Group](images/revenue_by_age_group.png)
+
+**Revenue by Buyer Type**  
+
+![Revenue Share by Buyer Type](images/revenue_by_buyer_type.png)
+
+**Monthly Revenue Trend**  
+
+![Monthly Revenue Trend](images/monthly_revenue_trend.png)
 
 ## Key Business Insights 
 **1. Strong Revenue Performance**
