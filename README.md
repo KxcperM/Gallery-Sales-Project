@@ -219,8 +219,9 @@ This dataset supports long term business tracking using the following KPIs:
 ## How to Use
 
 1. Load the original dirty CSV into your database as table `Dirty_Gallery_Sales_Data.csv`  
-   (SQLite, PostgreSQL, MySQL, DuckDB, etc.)
-
+   (SQLite, PostgreSQL, MySQL, DuckDB, etc.
 2. Run the cleaning script:
    ```bash
    sqlite3 gallery.db < Clean_Gallery_Sales_Data.sql
+3. Run the `Visualise_Insights.py` script, this uses the clean csv file which was generated from step 2
+4. Preview the 4 plot pngs that have been generated which give insights into the revenue performance 
