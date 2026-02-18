@@ -59,6 +59,9 @@ Insights & Business Recommendations
 - Full `YYYY-MM-DD` dates preserved
 - Repaired monetary values
 - Standardised categories
+- Generated insights based on revenue performance
+- Generated general key business insights
+- Generated other insights & useful KPI's
 
 ## Key Cleaning Steps Performed
 
