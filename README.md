@@ -82,36 +82,6 @@ Insights & Business Recommendations
 - **Kept intentionally**  
   Negative quantities (real returns/refunds)  
   Future dates (2025–2026 entries appear valid in context)
-  
-## Insights and Meaningful KPIs Using the Cleaned Dataset
-
-### Total Revenue
-- £891,728.05  
-  Represents total sales value across all transactions.
-
-### Number of Transactions
-- 420 transactions  
-  Reflects total completed sales after data validation.
-
-### Average Order Value (AOV)
-- £2,123.16  
-  The average value of each transaction, indicating strong high-value purchases.
-
-### Customer Mix
-- New: 286  
-- Repeat: 134  
-  68% New / 32% Repeat  
-  Indicates strong acquisition performance with an opportunity to improve customer retention.
-
-### Return Rate
-- 1.9% of transactions  
-  Low return rate suggests high customer satisfaction and strong product fit.
-
-### Payment Method Distribution
-- Credit Card: 74.5%  
-- Cash: 16.9%  
-- Bank Transfer: 8.6%  
-  Digital payments dominate, supporting online and card-first sales strategies.
 
 # Revenue Performance Insights
 
@@ -192,6 +162,37 @@ The low return rate (1.9%) indicates:
 Buyers aged between 25–44 drive the most revenue.
 Marketing Implication:
 - Focus exhibitions, social media campaigns, and advertising toward this demographic.
+
+## Other Insights and Meaningful KPIs Using the Cleaned Dataset
+
+### Total Revenue
+- £891,728.05  
+  Represents total sales value across all transactions.
+
+### Number of Transactions
+- 420 transactions  
+  Reflects total completed sales after data validation.
+
+### Average Order Value (AOV)
+- £2,123.16  
+  The average value of each transaction, indicating strong high-value purchases.
+
+### Customer Mix
+- New: 286  
+- Repeat: 134  
+  68% New / 32% Repeat  
+  Indicates strong acquisition performance with an opportunity to improve customer retention.
+
+### Return Rate
+- 1.9% of transactions  
+  Low return rate suggests high customer satisfaction and strong product fit.
+
+### Payment Method Distribution
+- Credit Card: 74.5%  
+- Cash: 16.9%  
+- Bank Transfer: 8.6%  
+  Digital payments dominate, supporting online and card-first sales strategies.
+
 
 ## Recommended KPIs for Ongoing Monitoring
 
