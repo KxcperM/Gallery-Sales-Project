@@ -139,7 +139,7 @@ Although new customers dominate (68%), only 32% return.
 This highlights opportunities for:
 - Loyalty programmes
 - VIP previews
-- Repeat-buyer incentives
+- Repeat buyer incentives
 
 **3. Revenue Concentration Risk**
 
